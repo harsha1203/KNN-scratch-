@@ -1,1 +1,1 @@
-# KNN-scratch-
+# KNN-scratch
